@@ -1,0 +1,16 @@
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\Bin\Debug\ControlTemplateDemo.dll
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\Bin\Debug\ControlTemplateDemo.pdb
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\Bin\Debug\AppManifest.xaml
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\Bin\Debug\ControlTemplateDemo.xap
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\Bin\Debug\TestPage.html
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\obj\Debug\App.g.cs
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\obj\Debug\MainPage.g.cs
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\obj\Debug\ControlTemplateDemo.g.resources
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\obj\Debug\ControlTemplateDemo.dll
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\obj\Debug\ControlTemplateDemo.pdb
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\obj\Debug\XapCacheFile.xml
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\Bin\Debug\System.Windows.Interactivity.dll
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\Bin\Debug\System.Windows.Interactivity.xml
+D:\SilverLightWorkSpace\ControlTemplateDemo\ControlTemplateDemo\obj\Debug\ControlTemplateDemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ControlTemplateDemoSite", "ControlTemplateDemoSite\", "{b34432f0-1099-4bad-9874-c83f4e7e8a4d}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjOutputReferences = "{271160b1-03c3-420b-b4e7-7fed60de6025}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlTemplateDemo", "ControlTemplateDemo\ControlTemplateDemo.csproj", "{271160b1-03c3-420b-b4e7-7fed60de6025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34432F0-1099-4BAD-9874-C83F4E7E8A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34432F0-1099-4BAD-9874-C83F4E7E8A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34432F0-1099-4BAD-9874-C83F4E7E8A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34432F0-1099-4BAD-9874-C83F4E7E8A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271160B1-03C3-420B-B4E7-7FED60DE6025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271160B1-03C3-420B-B4E7-7FED60DE6025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271160B1-03C3-420B-B4E7-7FED60DE6025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271160B1-03C3-420B-B4E7-7FED60DE6025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
